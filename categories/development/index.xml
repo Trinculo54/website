@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on Trinculo54 | Full Stack Dev</title>
-    <link>https://trinculo54.github.io/Site/categories/development/</link>
+    <link>https://www.trinculo54.tech/categories/development/</link>
     <description>Recent content in development on Trinculo54 | Full Stack Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://trinculo54.github.io/Site/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://www.trinculo54.tech/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shield Bot</title>
-      <link>https://trinculo54.github.io/Site/portfolio/shield-bot/</link>
+      <link>https://www.trinculo54.tech/portfolio/shield-bot/</link>
       <pubDate>Thu, 13 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://trinculo54.github.io/Site/portfolio/shield-bot/</guid>
+      <guid>https://www.trinculo54.tech/portfolio/shield-bot/</guid>
       <description>Simple Anti-Raid bot made by me, Adding Lockdowns, welcomes, bans, kicks, and dashboard.</description>
     </item>
     
     <item>
       <title>Pulse Bot</title>
-      <link>https://trinculo54.github.io/Site/portfolio/pulse-bot/</link>
+      <link>https://www.trinculo54.tech/portfolio/pulse-bot/</link>
       <pubDate>Mon, 22 Mar 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://trinculo54.github.io/Site/portfolio/pulse-bot/</guid>
+      <guid>https://www.trinculo54.tech/portfolio/pulse-bot/</guid>
       <description>Custom Discord Bot that has similarties to Mee6 but has music and much more server side customizability.</description>
     </item>
     

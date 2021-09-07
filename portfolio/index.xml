@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Trinculo54 | Full Stack Dev</title>
-    <link>https://trinculo54.github.io/Site/portfolio/</link>
+    <link>https://www.trinculo54.tech/portfolio/</link>
     <description>Recent content in Portfolio on Trinculo54 | Full Stack Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://trinculo54.github.io/Site/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://www.trinculo54.tech/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Among Us Server</title>
-      <link>https://trinculo54.github.io/Site/portfolio/among-us-server/</link>
+      <link>https://www.trinculo54.tech/portfolio/among-us-server/</link>
       <pubDate>Mon, 17 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://trinculo54.github.io/Site/portfolio/among-us-server/</guid>
+      <guid>https://www.trinculo54.tech/portfolio/among-us-server/</guid>
       <description>Custom Among us server made to add simple gamemodes and mods without having a pc or installing mods directly in the game.</description>
     </item>
     
     <item>
       <title>Shield Bot</title>
-      <link>https://trinculo54.github.io/Site/portfolio/shield-bot/</link>
+      <link>https://www.trinculo54.tech/portfolio/shield-bot/</link>
       <pubDate>Thu, 13 May 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://trinculo54.github.io/Site/portfolio/shield-bot/</guid>
+      <guid>https://www.trinculo54.tech/portfolio/shield-bot/</guid>
       <description>Simple Anti-Raid bot made by me, Adding Lockdowns, welcomes, bans, kicks, and dashboard.</description>
     </item>
     
     <item>
       <title>Pulse Bot</title>
-      <link>https://trinculo54.github.io/Site/portfolio/pulse-bot/</link>
+      <link>https://www.trinculo54.tech/portfolio/pulse-bot/</link>
       <pubDate>Mon, 22 Mar 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://trinculo54.github.io/Site/portfolio/pulse-bot/</guid>
+      <guid>https://www.trinculo54.tech/portfolio/pulse-bot/</guid>
       <description>Custom Discord Bot that has similarties to Mee6 but has music and much more server side customizability.</description>
     </item>
     
     <item>
       <title>AU annou
 nce</title>
-      <link>https://trinculo54.github.io/Site/portfolio/auannounce/</link>
+      <link>https://www.trinculo54.tech/portfolio/auannounce/</link>
       <pubDate>Wed, 10 Jun 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://trinculo54.github.io/Site/portfolio/auannounce/</guid>
+      <guid>https://www.trinculo54.tech/portfolio/auannounce/</guid>
       <description>Custom Impostor Server plugin that adds announcements to the server</description>
     </item>
     

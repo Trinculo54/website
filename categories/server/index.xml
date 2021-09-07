@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Server on Trinculo54 | Full Stack Dev</title>
+    <link>https://trinculo54.github.io/Site/categories/server/</link>
+    <description>Recent content in Server on Trinculo54 | Full Stack Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://trinculo54.github.io/Site/categories/server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Among Us Server</title>
+      <link>https://trinculo54.github.io/Site/portfolio/among-us-server/</link>
+      <pubDate>Mon, 17 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://trinculo54.github.io/Site/portfolio/among-us-server/</guid>
+      <description>Custom Among us server made to add simple gamemodes and mods without having a pc or installing mods directly in the game.</description>
+    </item>
+    
+    <item>
+      <title>AU annou
+nce</title>
+      <link>https://trinculo54.github.io/Site/portfolio/auannounce/</link>
+      <pubDate>Wed, 10 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://trinculo54.github.io/Site/portfolio/auannounce/</guid>
+      <description>Custom Impostor Server plugin that adds announcements to the server</description>
+    </item>
+    
+  </channel>
+</rss>

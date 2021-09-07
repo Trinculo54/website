@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Trinculo54 | Full Stack Dev</title>
+    <link>https://trinculo54.github.io/Site/categories/</link>
+    <description>Recent content in Categories on Trinculo54 | Full Stack Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://trinculo54.github.io/Site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Server</title>
+      <link>https://trinculo54.github.io/Site/categories/server/</link>
+      <pubDate>Mon, 17 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://trinculo54.github.io/Site/categories/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://trinculo54.github.io/Site/categories/development/</link>
+      <pubDate>Thu, 13 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://trinculo54.github.io/Site/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discord</title>
+      <link>https://trinculo54.github.io/Site/categories/discord/</link>
+      <pubDate>Thu, 13 May 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://trinculo54.github.io/Site/categories/discord/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
